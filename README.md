@@ -1,1 +1,0 @@
-# guidelines-4-dev.github.io
