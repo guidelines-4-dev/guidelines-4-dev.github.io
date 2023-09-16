@@ -55,6 +55,7 @@ body {
   background-color: #f5f8f9 !important;
   background-image: url(/images/home/background.webp) !important;
   background-repeat: no-repeat !important; 
+  background: fixed;
   background-size: contain !important;}
 
 .pull-right {
