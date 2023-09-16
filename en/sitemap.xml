@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/guidelines/code-review/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/guidelines/code-review/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/guidelines/code-review/"
+                />
+  </url><url>
     <loc>/en/guidelines/career-for-developer/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,6 +52,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url><url>
+    <loc>/en/guidelines/pull-request/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/guidelines/pull-request/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/guidelines/pull-request/"
                 />
   </url><url>
     <loc>/en/guidelines/remote-work/</loc>

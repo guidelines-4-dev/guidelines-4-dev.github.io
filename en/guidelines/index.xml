@@ -8,11 +8,31 @@
     <language>en</language>
     <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/guidelines/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Code review guidelines</title>
+      <link>/en/guidelines/code-review/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/guidelines/code-review/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
+Etiam porttitor condimentum dui nec vulputate.</description>
+    </item>
+    
+    <item>
       <title>Developer career guidelines</title>
       <link>/en/guidelines/career-for-developer/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>/en/guidelines/career-for-developer/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
+Etiam porttitor condimentum dui nec vulputate.</description>
+    </item>
+    
+    <item>
+      <title>Pull request guidelines</title>
+      <link>/en/guidelines/pull-request/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/guidelines/pull-request/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
 Etiam porttitor condimentum dui nec vulputate.</description>
     </item>

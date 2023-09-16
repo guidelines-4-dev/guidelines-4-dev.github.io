@@ -18,6 +18,26 @@ Etiam porttitor condimentum dui nec vulputate.</description>
     </item>
     
     <item>
+      <title>Guidelines para code review</title>
+      <link>/guidelines/code-review/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/guidelines/code-review/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
+Etiam porttitor condimentum dui nec vulputate.</description>
+    </item>
+    
+    <item>
+      <title>Guidelines para pull request</title>
+      <link>/guidelines/pull-request/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/guidelines/pull-request/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
+Etiam porttitor condimentum dui nec vulputate.</description>
+    </item>
+    
+    <item>
       <title>Guidelines para trabalho remoto</title>
       <link>/guidelines/remote-work/</link>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
