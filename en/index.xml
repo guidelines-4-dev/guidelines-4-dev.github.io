@@ -5,7 +5,28 @@
     <link>/en/</link>
     <description>Recent content on Guidelines 4 dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developer career guidelines</title>
+      <link>/en/guidelines/career-for-developer/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/guidelines/career-for-developer/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
+Etiam porttitor condimentum dui nec vulputate.</description>
+    </item>
+    
+    <item>
+      <title>Remote work guidelines</title>
+      <link>/en/guidelines/remote-work/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/guidelines/remote-work/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
+Etiam porttitor condimentum dui nec vulputate.</description>
+    </item>
+    
     <item>
       <title>What is the Full Stack Hacker?</title>
       <link>/en/about/</link>

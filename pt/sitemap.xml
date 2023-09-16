@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/guidelines/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/guidelines/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/guidelines/"
+                />
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
+  </url><url>
+    <loc>/guidelines/career-for-developer/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/guidelines/career-for-developer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/guidelines/career-for-developer/"
+                />
+  </url><url>
+    <loc>/guidelines/remote-work/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/guidelines/remote-work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/guidelines/remote-work/"
+                />
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -25,18 +77,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/categories/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
                 />
   </url><url>
     <loc>/tags/</loc>
