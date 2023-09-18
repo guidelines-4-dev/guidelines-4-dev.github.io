@@ -85,6 +85,14 @@ body {
       padding: 40px 30px; } }
 
 /*-------------------------------------- 1.1 Fonts & Colors --------------------------------------*/
+
+ol {
+  font-family: "Merriweather", serif;
+  font-size: 16px;
+  font-size: 18px;
+  line-height: 36px;
+}
+
 p {
   font-family: "Merriweather", serif;
   font-weight: 400;
@@ -127,6 +135,7 @@ h5, .h5 {
   color: #212121; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+  margin-top: 40;
   font-weight: 900;
   color: #212121; }
 
