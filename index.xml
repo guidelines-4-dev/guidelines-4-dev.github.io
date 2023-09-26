@@ -6,16 +6,26 @@
     <description>Recent content on Guidelines 4 dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guidelines para Carreira de Engenharia de software</title>
       <link>/guidelines/career-for-developer/</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/guidelines/career-for-developer/</guid>
       <description>Importante Estas guidelines são baseadas na experiência do autor e não necessariamente representam o consenso de um grande grupo de pessoas da área de engenharia de software.
 tl;dr Seja você o dono e condutor da sua carreira, invista continuamente em você, compreenda os conceitos fundamentais, trabalhe em projetos pessoais, identifique seu valor de mercado, desenvolva habilidades de comunicação, e siga um plano de médio e longo prazo.
 Sumário Formação Níveis da carreira Salário e mercado Especialização e certificações Comunicação e softskills Preparação para entrevistas Formação As 3 questões fundamentais:</description>
+    </item>
+    
+    <item>
+      <title>O que é o Guidelines4Dev?</title>
+      <link>/about/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>E aí Dev, sudo? espero que você esteja muito bem! Eu gostaria de dar-lhe as boas vindas a este pequeno espaço onde eu compartilho um pouco de minhas experiências em forma de guidelines, uma espécie de livro digial, seja muito bem vindo ao Guidelines4Dev.
+Eu sou Lorival e criei este espaço para organizar um pouco da minha experiência em guidelines em forma de livro digital, divididos em capítulos, onde cada capítulo é uma guideline sobre um determinado tema.</description>
     </item>
     
     <item>
@@ -46,15 +56,6 @@ Etiam porttitor condimentum dui nec vulputate.</description>
       <guid>/guidelines/remote-work/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel urna dignissim, sollicitudin velit id, rhoncus enim. Etiam eget tellus diam. Ut feugiat orci eget dolor accumsan, quis consectetur odio ornare. Cras blandit rhoncus dapibus. Morbi ante eros, convallis a aliquet at, venenatis et lorem. Nullam vitae enim sed neque commodo maximus sit amet eu diam. Praesent sed posuere orci. Duis et viverra purus, nec tempor diam.
 Etiam porttitor condimentum dui nec vulputate.</description>
-    </item>
-    
-    <item>
-      <title>O que é o Guidelines4Dev?</title>
-      <link>/about/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;E aí hacker, sudo? espero que você esteja muito bem! Eu gostaria de dar-lhe as boas vindas a este pequeno espaço onde eu compartilho um pouco de minhas experiências e interesses em diversas áreas relacionados à desenvolvimento de software, seja muito bem vindo ao &lt;strong&gt;Full Stack Hacker&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>
