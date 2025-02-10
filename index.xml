@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guidelines 4 dev</title>
+    <link>/</link>
+    <description>Recent content on Guidelines 4 dev</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escadas de engenharia</title>
+      <link>/engineering-ladder/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/engineering-ladder/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;&#xA;&lt;p&gt;&lt;mark&gt;Seja você o dono e condutor da sua carreira&lt;/mark&gt;, conheça os caminhos para evolução na sua área baseado no mercado, invista continuamente na sua carreira de maneira organizada&lt;mark&gt; e siga um plano de médio e longo prazo&lt;/mark&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Principais links: &lt;a href=&#34;https://www.engineeringladders.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;    &lt;b&gt;&lt;i&gt;Engineering Ladders&lt;/i&gt;&lt;/b&gt;&#xA;&lt;/a&gt;&#xA;, &lt;a href=&#34;https://dropbox.github.io/dbx-career-framework&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;    &lt;b&gt;&lt;i&gt;Dropbox Career Framework&lt;/i&gt;&lt;/b&gt;&#xA;&lt;/a&gt;&#xA; e &lt;a href=&#34;https://progression.fyi&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&#xA;    &lt;b&gt;&lt;i&gt;Progression.fyi&lt;/i&gt;&lt;/b&gt;&#xA;&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;propósito&#34;&gt;Propósito&lt;/h2&gt;&#xA;&lt;p&gt;As escadas de engenharia &lt;mark&gt;são modelos estruturados em estágios progressivos que servem como um guia de carreira, estabelecendo expectativas claras para cada degrau&lt;/mark&gt;. Esses estágios consideram critérios como habilidades técnicas, impacto, capacidade de liderança e colaboração, por exemplo. &lt;mark&gt;Funcionam como uma bússola, orientando profissionais em sua progressão de carreira e ajudando gestores a alinhar expectativas e guiar o crescimento de cada membro da equipe&lt;/mark&gt; de forma transparente.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O que é o Guidelines4Dev?</title>
+      <link>/about/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;E aí Dev! Sudo? espero que você esteja muito bem! Eu sou &lt;a href=&#34;https://loriv.al&#34;&gt;Lorival&lt;/a&gt; e gostaria de dar-lhe as boas vindas a este pequeno &lt;mark&gt;espaço onde eu compartilho um pouco de minhas experiências em forma de guidelines&lt;/mark&gt;. Seja muito bem vindo ao &lt;strong&gt;Guidelines4Dev&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Eu criei este projeto para transmitir o que aprendi nesses anos como desenvolvedor, passando por 10 empresas de diferentes tamanhos e o que eu continuo aprendendo e descobrindo constantemente. &lt;mark&gt;A ideia é organizar boas práticas em forma de guias curtos, guidelines, focadas em diversas áreas de desenvolvimento de software&lt;/mark&gt;, aqueles tópicos importantes que de uma maneira ou de outra tocamos constantemente em nosso dia-a-dia, sabe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
